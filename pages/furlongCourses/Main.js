@@ -70,7 +70,7 @@ export default function Main(props) {
 
   const [option, setOption] = React.useState({
     name: "Conditions of Engagement",
-    url: "https://writer.zohopublic.com/writer/published/0byhd02a3dd33a12e46098c2004068c6c917b?mode=embed",
+    url: "https://docs.google.com/document/d/e/2PACX-1vRlLLQ_cxYPe5ysNkaeJr8EMb-UcN84_RLcL-_3NFzoAp6i9fUxcR-ZBr2ycxISTY4G-inck1-ZZ3J5/pub?embedded=true",
   });
   const [data, setData] = React.useState(null);
 
