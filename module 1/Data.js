@@ -45,23 +45,23 @@ const resData = [
       },
       {
         name: "Furlong Painting SUB Contractor / Worker Induction",
-        url: "https://writer.zohopublic.com/writer/published/0byhd6d806473ebe1408d95e295034c0e4bc7?mode=embed",
+        url: "https://docs.google.com/document/d/e/2PACX-1vSa9expFvH7Bg1eMV7iecoi0bDqsxDfHJqps1elvzeWmXvFywsxjjbThh588TzYofRPA7ID1VkkZrqa/pub?embedded=true",
       },
       {
         name: "Furlong Painting - History & Mission",
-        url: "https://writer.zohopublic.com/writer/published/0byhd6d806473ebe1408d95e295034c0e4bc7?mode=embed",
+        url: "https://docs.google.com/document/d/e/2PACX-1vRUdaTAk4Yya6oJK2grlZ7senZp_q4FlJb9vO9frfV_ji6jgYxOrQUWOBprw2Tt8qNDZr2E3kGTIiFF/pub?embedded=true",
       },
       {
         name: "Interpretative Statements",
-        url: "https://writer.zohopublic.com/writer/published/0byhd6d806473ebe1408d95e295034c0e4bc7?mode=embed",
+        url: "https://docs.google.com/document/d/e/2PACX-1vQcUegOYq5KrgXLzuqVGbuRwGboY2B70Pi62MvgE4DJtgfnWOj1n1E7maAZdZiGy7McWzo-70spk08-/pub?embedded=true",
       },
       {
         name: "Contractor Expectations and Responsibilities",
-        url: "https://writer.zohopublic.com/writer/published/0byhd6d806473ebe1408d95e295034c0e4bc7?mode=embed",
+        url: "https://docs.google.com/document/d/e/2PACX-1vTrpnrgEiv-xq3jWsTVHWhGLhAXzynqXRkWyDF7KYSstE76X-bDZzX3aMqQj4R6Ilicbs348P9sqaYf/pub?embedded=true",
       },
       {
         name: "Personal and Business Documentation",
-        url: "https://writer.zohopublic.com/writer/published/0byhd6d806473ebe1408d95e295034c0e4bc7?mode=embed",
+        url: "https://docs.google.com/document/d/e/2PACX-1vTgN4EPLkXVZ_Eh5NgSD6bBv2x9q0GcRQrrOJmLfI5duG9g9eUrtjOqB1NZ0fS7N6Z4bC92nNjjm5NF/pub?embedded=true",
       },
       {
         name: "QUIZ - Module 1",
